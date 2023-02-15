@@ -1,0 +1,24 @@
+devlopmental blog
+Sure, here's the updated list of what you learned in each week, in paragraph format:
+
+In week 1, I learned the basics of web development, including what HTML, CSS, and JS are and how they work together to create a website. I also learned about the structure of HTML and the different elements it uses, like h1, p, and a, as well as how to add images and videos, create tables, and style the page with background colors.
+
+In week 2, I learned about HTML5 semantic elements like header, navigation, and article, and how to use CSS to style and position these elements. I learned how to modify text font and color, create classes and IDs, use pseudo classes, and apply box model concepts like padding and margin. Typography and static wireframing were also introduced.
+
+In week 3, I learned about different types of input fields, the importance of using "important" in CSS, and how to apply media queries for responsive design. I also learned about element positioning and how to use flexbox for layout, as well as how to wireframe a static layout.
+
+In week 4, I learned how to make images responsive and how to use version control with Github and VSC.
+
+In week 5, I was introduced to JavaScript, including how to use console controls and write classes and objects, and how to access them through the console. I also learned about global objects like ToDate, DOM manipulation, and how to modify CSS files with JS.
+
+In week 6, I learned how to create literal and function-based objects, and how to use them to store and manipulate data. I also learned about variable creation and how to target specific or groups of DOM elements.
+
+In week 7, I learned about mouse events and event listeners, as well as how to create and submit forms and use server-side validation. I also learned about JSON and web and local storage, and how to convert JS objects to strings and vice versa.
+
+In week 8, I learned about element transition effects and AJAX functionality, as well as what APIs are and how to submit API requests.
+
+In week 9, I learned about Bootstrap, an open-source toolkit for web development that makes creating responsive and mobile-first websites easier. I learned how to use Bootstrap utilities and components to style and structure web pages.
+
+In week 12, I learned about the differences between SQL and NoSQL databases, and how to use RestDB, a cloud-based NoSQL database, to create and manage data. I learned how to create a new database and navigate its functions, create fields, and access its API docs to find the API key and insert it into the code.
+
+In week 14, I learned about Lottie, a library for creating and rendering animations in web and mobile apps using JSON data. I learned how to implement Lottie in web development and how to convert SVG files to personalized animated icons using Lottie.
